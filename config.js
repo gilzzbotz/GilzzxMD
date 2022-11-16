@@ -47,58 +47,58 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '12344054073'
-global.nomorown = '12344054073'
-global.nomorownv2 = '+1 (234) 405 4073'
-global.nomorown1 = '12344054073'
-global.nomorown2 = '6283870480221'
+global.nomorbot = '6282334703987'
+global.nomorown = '6285730794089'
+global.nomorownv2 = '+6281357580863'
+global.nomorown1 = '6285730794089'
+global.nomorown2 = '6281357580863'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = 'WannBotz-MD Official'//nama group kalian
-global.author = 'Wannzx-Md'
-global.namebot = 'WannBotz-MD Official'
-global.wm = 'WannBotz-MD'
-global.media = 'https://telegra.ph/file/ed08cb8b1b8c7eb84aa19.jpg'
+global.gcname = 'Gilzz Botz Official'//nama group kalian
+global.author = 'GilzzXD-Md'
+global.namebot = 'GilzzBotz-MD Official'
+global.wm = 'GilzzBotz-MD'
+global.media = 'https://telegra.ph/file/69ad7404bc26311790b83.jpg'
 global.watermark = wm
 global.status = 'public'
 global.danied = '          ⚠️ 𝐀𝐜𝐜𝐞𝐬 𝐃𝐚𝐧𝐢𝐞𝐝 ⚠️  '
-global.wame = 'https://wa.me/message/6TYVKZNILFJYL1'
+global.wame = 'https://wa.me/6285730794089'
 global.alllink = `https://youtu.be/lN-0jnuK2Ko`
-global.wm2 = ' 𝐖𝐚𝐧𝐧𝐁𝐨𝐭𝐳-𝐌𝐃 '
+global.wm2 = ' 𝐆𝐢𝐥𝐳𝐳 𝐌𝐃 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Wannzx-Md`
+global.titlebot = `𝐆𝐢𝐥𝐳𝐳 𝐌𝐃`
 global.stickpack = 'Created by: '
-global.stickauth = `© WannBotz-MD Official`
+global.stickauth = `© GilzzBotz-MD Official`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Wannzx-Md'
-global.nameown2 = 'WannBotz-MD Official'
+global.nameown1= 'Gilzz-Md'
+global.nameown2 = 'Gilzz-MD Official'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
-global.lynk = '-'
+global.lynk = 'https://lynk.id/gilzzx'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/wannzx_133'//Instagram klian
-global.sgh = 'https://github.com/WannBotz' //github
-global.tautanwa = 'https://wa.me/message/6TYVKZNILFJYL1'
-global.sgc = 'https://chat.whatsapp.com/Bbh5bDDQsWQBxQTaY5tHBJ' //group whatsapp
-global.syt = 'https://youtube.com/channel/UC_kZ0QiOmykIPGMbfTcErJw' //youtube
-global.sytv = 'https://youtu.be/lN-0jnuK2Ko'//link video yt
+global.sgh = 'https://github.com/gilzzbotz' //github
+global.tautanwa = 'https://wa.me/wa.me/6285730794089'
+global.sgc = 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy' //group whatsapp
+global.syt = 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg' //youtube
+global.sytv = 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'//link video yt
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0812 6597 0249'
+global.pdana = 'PC OWNER'
 global.povo = '-'
-global.pgopay = '0812 6597 0249'
-global.plinkaja = '0812 6597 0249' //link aja
-global.ppulsa = '0812 6597 0249'
-global.ppulsa2 = '0838 7048 0221'
+global.pgopay = 'PC OWNER
+global.plinkaja = 'PC OWNER' //link aja
+global.ppulsa = 'PC OWNER'
+global.ppulsa2 = 'PC OWNER'
 global.psaweria = '-'
 
 
@@ -321,7 +321,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://www.instagram.com/wannzx_133"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0812 6597 0249'
+global.phn = '0857 3079 4089'
 
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
